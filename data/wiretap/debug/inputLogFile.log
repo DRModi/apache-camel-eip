@@ -1,0 +1,3 @@
+2018-07-15 18:02:46,563 | INFO | CamelTestSupport.java 243 | ********************************************************************************
+2018-07-15 18:02:46,566 | INFO | CamelTestSupport.java 244 | Testing: contentBaseRoutingTest(com.learncamel.eip.routes.ContentBasedRouterRouteTest)
+2018-07-15 18:02:46,566 | INFO | CamelTestSupport.java 245 | ********************************************************************************

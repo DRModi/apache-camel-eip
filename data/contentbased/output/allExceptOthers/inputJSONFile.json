@@ -1,0 +1,4 @@
+{
+  "name" :"test json file",
+  "store":"should be stored under data/output/json folder!!"
+}

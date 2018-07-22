@@ -1,0 +1,10 @@
+<Order>
+    <Number>99999</Number>
+    <Country>INDIA</Country>
+    <Amount>55992</Amount>
+    <Items>
+        <ItemID>0211</ItemID>
+        <ItemCost>0708.00</ItemCost>
+        <ItemQty>1</ItemQty>
+    </Items>
+</Order>
